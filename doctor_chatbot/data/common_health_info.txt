@@ -1,0 +1,39 @@
+# Common Health Information (Sample knowledge base for Doctor Chatbot RAG)
+# This is general information only, not medical advice. Consult a doctor for diagnosis.
+
+## Common Cold
+Symptoms: runny nose, sneezing, sore throat, mild fever, cough.
+General care: rest, warm fluids, saline gargle. See a doctor if fever above 101F
+persists more than 3 days, breathing difficulty, or symptoms worsen after 10 days.
+
+## Viral Fever / Flu
+Symptoms: high fever, body ache, chills, headache, fatigue.
+General care: rest, hydration, paracetamol as directed on the pack.
+Seek urgent care for breathing difficulty, chest pain, dehydration, or fever above 103F.
+
+## Migraine / Headache
+Common triggers: stress, lack of sleep, dehydration, skipped meals, bright light.
+General care: rest in a dark quiet room, hydration, regular sleep.
+See a doctor for sudden severe headache, vision changes, weakness, or frequent attacks.
+
+## Acidity / Gastritis
+Symptoms: burning in chest, sour taste, bloating, stomach pain.
+General care: avoid spicy/oily food, eat small frequent meals, avoid late-night eating.
+See a doctor for black stools, vomiting blood, severe abdominal pain, or weight loss.
+
+## Diabetes - General Awareness
+Symptoms: frequent urination, excess thirst, fatigue, slow wound healing.
+Management is lifelong and needs a doctor: blood sugar monitoring, diet, exercise,
+medication as prescribed. Never start or stop diabetes medicine without a doctor.
+
+## Hypertension - General Awareness
+Often has no symptoms. Risk factors: high salt, obesity, smoking, alcohol, stress.
+Management needs regular BP checks and a doctor's guidance on lifestyle and medicine.
+
+## When to seek emergency care
+Chest pain, breathing difficulty, fainting, severe bleeding, signs of stroke
+(face drooping, arm weakness, speech difficulty), severe burns, or high fever
+with confusion - go to emergency immediately.
+
+Disclaimer: This chatbot gives general health information from these documents only.
+It is not a substitute for professional medical advice, diagnosis, or treatment.

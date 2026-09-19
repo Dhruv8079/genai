@@ -30,3 +30,6 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Generated FAISS vector index (rebuilt automatically on run)
+doctor_chatbot/vectorstore/
